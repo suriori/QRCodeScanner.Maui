@@ -1,0 +1,12 @@
+D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Debug\net6.0\QRCodeScanner.Core.deps.json
+D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Debug\net6.0\QRCodeScanner.Core.dll
+D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Debug\net6.0\QRCodeScanner.Core.pdb
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.csproj.AssemblyReference.cache
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.AssemblyInfoInputs.cache
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.AssemblyInfo.cs
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.csproj.CoreCompileInputs.cache
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.dll
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\refint\QRCodeScanner.Core.dll
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\QRCodeScanner.Core.pdb
+D:\project\QRCodeScanner\QRCodeScanner.Core\obj\Debug\net6.0\ref\QRCodeScanner.Core.dll

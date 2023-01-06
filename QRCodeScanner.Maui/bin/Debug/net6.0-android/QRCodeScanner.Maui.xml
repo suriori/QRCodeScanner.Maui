@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QRCodeScanner.Maui</name>
+    </assembly>
+    <members>
+        <member name="M:QRCodeScanner.Maui.Platforms.Android.BarcodeAnalyzer.YUV_420_888toNV21(Android.Media.Image)">
+            <summary>
+            https://stackoverflow.com/a/45926852
+            </summary>
+        </member>
+        <member name="M:QRCodeScanner.Maui.Platforms.Android.BarcodeAnalyzer.NV21toJPEG(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            https://stackoverflow.com/a/45926852
+            </summary>
+        </member>
+        <member name="M:QRCodeScanner.Maui.Platforms.Android.BarcodeAnalyzer.RotateJpeg(System.Byte[],System.Int32)">
+            <summary>
+            https://stackoverflow.com/a/44323834
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.PreviewHeight">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.PreviewWidth">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.RequestedFPS">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.ScanInterval">
+            <summary>
+            Only iOS will be reflected this setting, Default is 500ms, minimum value is 100ms
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.IsScanning">
+            <summary>
+            Disables or enables scanning
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.ReturnBarcodeImage">
+            <summary>
+            Disables or enables returning the image which the barcode was read from.
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.TorchOn">
+            <summary>
+            Disables or enables torch
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.CameraFacing">
+            <summary>
+            Select Back or Front camera.
+            Default value is Back Camera
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.CameraView.CaptureQuality">
+            <summary>
+            Set the capture quality for the image analysys.
+            Reccomended and default value is Medium.
+            Use highest values for more precision or lower for fast scanning.
+            </summary>
+        </member>
+        <member name="M:QRCodeScanner.Maui.CameraView.CameraView_Unloaded(System.Object,System.EventArgs)">
+            <summary>
+            Due to DisconnectHandler has to be called manually...we do it when the Window unloaded
+            https://github.com/dotnet/maui/issues/3604
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.PreviewHeight">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.PreviewWidth">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.RequestedFPS">
+            <summary>
+            Only Android will be reflected this setting
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.ScanInterval">
+            <summary>
+            Only iOS will be reflected this setting, Default is 500ms, minimum value is 100ms
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.IsScanning">
+            <summary>
+            Disables or enables scanning
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.ReturnBarcodeImage">
+            <summary>
+            Disables or enables returning the image which the barcode was read from.
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.TorchOn">
+            <summary>
+            Disables or enables torch
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.CameraFacing">
+            <summary>
+            Select Back or Front camera.
+            Default value is Back Camera
+            </summary>
+        </member>
+        <member name="P:QRCodeScanner.Maui.ICameraView.CaptureQuality">
+            <summary>
+            Set the capture quality for the image analysys.
+            Reccomended and default value is Medium.
+            Use highest values for more precision or lower for fast scanning.
+            </summary>
+        </member>
+    </members>
+</doc>

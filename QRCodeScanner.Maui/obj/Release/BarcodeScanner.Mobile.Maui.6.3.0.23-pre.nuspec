@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BarcodeScanner.Mobile.Maui</id>
+    <version>6.3.0.23-pre</version>
+    <authors>Jimmy Pun, Anton Yaroshenko</authors>
+    <licenseUrl>https://github.com/JimmyPun610/BarcodeScanner.Mobile</licenseUrl>
+    <projectUrl>https://github.com/JimmyPun610/BarcodeScanner.Mobile</projectUrl>
+    <iconUrl>https://banner2.kisspng.com/20180713/olo/kisspng-nuget-net-framework-package-manager-software-repo-nuget-5b487dc3ba81a7.452233091531477443764.jpg</iconUrl>
+    <description>.NET 6 upgrade for BarcodeScanner.XF, Powerful MAUI barcode scanning library using GoogleVision API for Android and iOS.</description>
+    <releaseNotes>1. Update dependency package for Android</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>MAUI Barcode Scanning Tools</tags>
+    <repository url="https://github.com/JimmyPun610/BarcodeScanner.Mobile" />
+    <dependencies>
+      <group targetFramework="net6.0-android31.0">
+        <dependency id="BarcodeScanner.Mobile.Core" version="6.3.0.23" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Build.Download" version="0.11.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-ios16.1">
+        <dependency id="BarcodeScanner.Mobile.Core" version="6.3.0.23" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.InteropServices.NFloat.Internal" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Build.Download" version="0.11.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Maui\bin\Release\net6.0-android\BarcodeScanner.Mobile.Maui.dll" target="lib\net6.0-android31.0\BarcodeScanner.Mobile.Maui.dll" />
+    <file src="C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Maui\bin\Release\net6.0-android\BarcodeScanner.Mobile.Maui.xml" target="lib\net6.0-android31.0\BarcodeScanner.Mobile.Maui.xml" />
+    <file src="C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Maui\bin\Release\net6.0-ios\BarcodeScanner.Mobile.Maui.dll" target="lib\net6.0-ios16.1\BarcodeScanner.Mobile.Maui.dll" />
+  </files>
+</package>

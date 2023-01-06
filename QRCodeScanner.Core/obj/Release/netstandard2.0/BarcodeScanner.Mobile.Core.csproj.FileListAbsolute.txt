@@ -1,0 +1,10 @@
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\bin\Release\netstandard2.0\BarcodeScanner.Mobile.Core.deps.json
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\bin\Release\netstandard2.0\BarcodeScanner.Mobile.Core.dll
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\bin\Release\netstandard2.0\BarcodeScanner.Mobile.Core.pdb
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.csproj.AssemblyReference.cache
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.AssemblyInfoInputs.cache
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.AssemblyInfo.cs
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.csproj.CoreCompileInputs.cache
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.dll
+C:\Users\NgocTuanNguyen\Downloads\Compressed\BarcodeScanner.Mobile-master\BarcodeScanner.Mobile.Core\obj\Release\netstandard2.0\BarcodeScanner.Mobile.Core.pdb

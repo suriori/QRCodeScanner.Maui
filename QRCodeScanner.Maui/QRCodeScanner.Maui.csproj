@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-android;net6.0-ios;</TargetFrameworks>
+		<UseMaui>true</UseMaui>
+		<SingleProject>true</SingleProject>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">15.4</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">31.0</SupportedOSPlatformVersion>
+
+		<!--Assembly and Namespace info -->
+		<id>QRCodeScanner.Maui</id>
+		<AssemblyName>QRCodeScanner.Maui</AssemblyName>
+		<RootNamespace>QRCodeScanner.Maui</RootNamespace>
+
+		<Product></Product>
+		<AssemblyVersion>1.0.0.69</AssemblyVersion>
+		<AssemblyFileVersion>1.0.0.69</AssemblyFileVersion>
+		<Version>1.0.0.69</Version>
+		<NeutralLanguage>en</NeutralLanguage>
+
+		<!--Version of C# to use -->
+		<LangVersion>default</LangVersion>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Authors>SuriOri</Authors>
+		<Description>..NET 6 upgrade for QRCodeScanner, Powerful MAUI barcode, QRCode scanning library using GoogleVision API for Android and iOS.</Description>
+		<RepositoryUrl>https://github.com/suriori/QRCodeScanner.Maui</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/suriori/QRCodeScanner.Maui</PackageProjectUrl>
+		<RepositoryType></RepositoryType>
+		<PackageTags>MAUI Barcode, QRCode Scanning Tools</PackageTags>
+		<PackageReleaseNotes>Dependency libraries update for MAUI Android and iOS</PackageReleaseNotes>
+		<Copyright>Copyright 2022</Copyright>
+		<PackOnBuild>true</PackOnBuild>
+	</PropertyGroup>
+
+	<!--<PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-ios'">
+		<RuntimeIdentifiers>ios-arm64;</RuntimeIdentifiers>
+		<PlatformTarget>arm64</PlatformTarget>
+    </PropertyGroup>-->
+	
+	<ItemGroup>
+		<PackageReference Include="Xamarin.Build.Download" Version="0.11.4" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\QRCodeScanner.Core\QRCodeScanner.Core.csproj" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QRCodeScanner.Core</name>
+    </assembly>
+    <members>
+        <member name="P:QRCodeScanner.Core.BarcodeResult.BoundingBox">
+            <summary>
+            This value is native coordination, please make conversion to Maui coordination first
+            </summary>
+        </member>
+    </members>
+</doc>

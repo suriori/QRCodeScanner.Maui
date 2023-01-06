@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QRCodeScanner.Maui</id>
+    <version>1.0.0.69</version>
+    <authors>SuriOri</authors>
+    <projectUrl>https://github.com/JimmyPun610/QRCodeScanner</projectUrl>
+    <description>..NET 6 upgrade for QRCodeScanner, Powerful MAUI barcode, QRCode scanning library using GoogleVision API for Android and iOS.</description>
+    <releaseNotes>Dependency libraries update for MAUI Android and iOS</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>MAUI Barcode, QRCode Scanning Tools</tags>
+    <repository url="https://github.com/JimmyPun610/QRCodeScanner" />
+    <dependencies>
+      <group targetFramework="net6.0-android31.0">
+        <dependency id="QRCodeScanner.Core" version="1.0.0.69" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Build.Download" version="0.11.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-ios16.1">
+        <dependency id="QRCodeScanner.Core" version="1.0.0.69" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.InteropServices.NFloat.Internal" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Build.Download" version="0.11.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\project\QRCodeScanner\QRCodeScanner.Maui\bin\Debug\net6.0-android\QRCodeScanner.Maui.dll" target="lib\net6.0-android31.0\QRCodeScanner.Maui.dll" />
+    <file src="D:\project\QRCodeScanner\QRCodeScanner.Maui\bin\Debug\net6.0-android\QRCodeScanner.Maui.xml" target="lib\net6.0-android31.0\QRCodeScanner.Maui.xml" />
+    <file src="D:\project\QRCodeScanner\QRCodeScanner.Maui\bin\Debug\net6.0-ios\QRCodeScanner.Maui.dll" target="lib\net6.0-ios16.1\QRCodeScanner.Maui.dll" />
+  </files>
+</package>

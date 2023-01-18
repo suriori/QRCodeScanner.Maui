@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R4iadl49lAVZbR5W4FswfgiBbDjuKts+F5ZBKY+Vc0gvv0GH7NcaJ8HoeiawHjMEAhxVhTVWd03XruYMU6e/PA==",
+  "dgSpecHash": "c3OhnSJmASgGvPa9BMa8+2EZcohmjINn11bM3zz2Lil9TwF3tCwXBkn/FBBG5NxG4U7qwIPhsr7lPZVEBghcjg==",
   "success": true,
-  "projectFilePath": "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
+  "projectFilePath": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Nuget\\microsoft.maui.graphics\\6.0.403\\microsoft.maui.graphics.6.0.403.nupkg.sha512",
     "C:\\Nuget\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

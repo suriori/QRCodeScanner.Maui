@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj": {}
+    "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj": {}
   },
   "projects": {
-    "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj": {
+    "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj": {
       "version": "1.0.0.69",
       "restore": {
-        "projectUniqueName": "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
+        "projectUniqueName": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
         "projectName": "QRCodeScanner.Core",
-        "projectPath": "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
+        "projectPath": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\QRCodeScanner.Core.csproj",
         "packagesPath": "C:\\Nuget",
-        "outputPath": "D:\\project\\QRCodeScanner\\QRCodeScanner.Core\\obj\\",
+        "outputPath": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Core\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

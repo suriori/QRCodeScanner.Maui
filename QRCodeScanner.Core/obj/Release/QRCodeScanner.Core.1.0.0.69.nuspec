@@ -4,12 +4,12 @@
     <id>QRCodeScanner.Core</id>
     <version>1.0.0.69</version>
     <authors>SuriOri</authors>
-    <projectUrl>https://github.com/suriori/QRCodeScanner.MAUI</projectUrl>
+    <projectUrl>https://github.com/suriori/QRCodeScanner.Core</projectUrl>
     <description>.NET 6 upgrade for QRCodeScanner, Powerful MAUI barcode, QRCode scanning library using GoogleVision API for Android and iOS.</description>
     <releaseNotes>Dependency libraries update for MAUI Android and iOS</releaseNotes>
     <copyright>Copyright 2022</copyright>
     <tags>MAUI Barcode, QRCode Scanning Tools</tags>
-    <repository url="https://github.com/suriori/QRCodeScanner.MAUI" />
+    <repository url="https://github.com/suriori/QRCodeScanner.Core" />
     <dependencies>
       <group targetFramework="MonoAndroid12.0">
         <dependency id="Microsoft.Maui.Graphics" version="6.0.403" exclude="Build,Analyzers" />
@@ -75,10 +75,10 @@
     </frameworkAssemblies>
   </metadata>
   <files>
-    <file src="D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Release\monoandroid12.0\QRCodeScanner.Core.dll" target="lib\monoandroid12.0\QRCodeScanner.Core.dll" />
-    <file src="D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Release\net6.0-android31.0\QRCodeScanner.Core.dll" target="lib\net6.0-android31.0\QRCodeScanner.Core.dll" />
-    <file src="D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Release\net6.0-android31.0\QRCodeScanner.Core.xml" target="lib\net6.0-android31.0\QRCodeScanner.Core.xml" />
-    <file src="D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Release\net6.0-ios\QRCodeScanner.Core.dll" target="lib\net6.0-ios16.1\QRCodeScanner.Core.dll" />
-    <file src="D:\project\QRCodeScanner\QRCodeScanner.Core\bin\Release\xamarin.ios10\QRCodeScanner.Core.dll" target="lib\xamarinios10\QRCodeScanner.Core.dll" />
+    <file src="D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\bin\Release\monoandroid12.0\QRCodeScanner.Core.dll" target="lib\monoandroid12.0\QRCodeScanner.Core.dll" />
+    <file src="D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\bin\Release\net6.0-android31.0\QRCodeScanner.Core.dll" target="lib\net6.0-android31.0\QRCodeScanner.Core.dll" />
+    <file src="D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\bin\Release\net6.0-android31.0\QRCodeScanner.Core.xml" target="lib\net6.0-android31.0\QRCodeScanner.Core.xml" />
+    <file src="D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\bin\Release\net6.0-ios\QRCodeScanner.Core.dll" target="lib\net6.0-ios16.1\QRCodeScanner.Core.dll" />
+    <file src="D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\bin\Release\xamarin.ios10\QRCodeScanner.Core.dll" target="lib\xamarinios10\QRCodeScanner.Core.dll" />
   </files>
 </package>

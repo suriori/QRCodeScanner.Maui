@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Er/QBJryEsa3bLOSWWf2mKrvUOcLrWbzihhd7PgbwPqAcK55bzoDpY4RYJ6AuTuw3Skba2ALpiakAmbyfSFvcg==",
+  "dgSpecHash": "WBGvgGKAizDv+h/ThUIkZuEL3yOO0n2MjCA8eAibvii3wVo/1KwDlZn1cktNZadqRNISc8JXu8T1E8SKf+EZqQ==",
   "success": true,
-  "projectFilePath": "D:\\project\\QRCodeScanner\\QRCodeScanner.Maui\\QRCodeScanner.Maui.csproj",
+  "projectFilePath": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Maui\\QRCodeScanner.Maui.csproj",
   "expectedPackageFiles": [
     "C:\\Nuget\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Nuget\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

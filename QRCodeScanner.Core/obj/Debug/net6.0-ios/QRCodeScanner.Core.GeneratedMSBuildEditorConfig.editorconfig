@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QRCodeScanner.Core
-build_property.ProjectDir = D:\project\QRCodeScanner\QRCodeScanner.Core\
+build_property.ProjectDir = D:\project\QRCodeScanner.Maui\QRCodeScanner.Core\

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WBGvgGKAizDv+h/ThUIkZuEL3yOO0n2MjCA8eAibvii3wVo/1KwDlZn1cktNZadqRNISc8JXu8T1E8SKf+EZqQ==",
+  "dgSpecHash": "8kEBBqICEobnNhdNfXf6c3epoPG9se7YIrRZYE+JjL8Ktsijc4ZGAKiv1NInehzgNg0/H1cxFWvB1QbnWIpjFw==",
   "success": true,
   "projectFilePath": "D:\\project\\QRCodeScanner.Maui\\QRCodeScanner.Maui\\QRCodeScanner.Maui.csproj",
   "expectedPackageFiles": [
@@ -132,14 +132,14 @@
     "C:\\Nuget\\xamarin.kotlinx.coroutines.core.jvm\\1.6.0.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
     "C:\\Nuget\\xamarin.mlkit.ios.barcodescanning.jimmypun610\\1.6.0.1\\xamarin.mlkit.ios.barcodescanning.jimmypun610.1.6.0.1.nupkg.sha512",
     "C:\\Nuget\\xamarin.mlkit.ios.core.jimmypun610\\5.0.0.1\\xamarin.mlkit.ios.core.jimmypun610.5.0.0.1.nupkg.sha512",
-    "C:\\Nuget\\microsoft.android.ref.31\\32.0.476\\microsoft.android.ref.31.32.0.476.nupkg.sha512",
-    "C:\\Nuget\\microsoft.maui.core.ref.android\\6.0.548\\microsoft.maui.core.ref.android.6.0.548.nupkg.sha512",
-    "C:\\Nuget\\microsoft.maui.controls.ref.android\\6.0.548\\microsoft.maui.controls.ref.android.6.0.548.nupkg.sha512",
     "C:\\Nuget\\microsoft.maui.essentials.ref.android\\6.0.548\\microsoft.maui.essentials.ref.android.6.0.548.nupkg.sha512",
-    "C:\\Nuget\\microsoft.maui.core.ref.ios\\6.0.548\\microsoft.maui.core.ref.ios.6.0.548.nupkg.sha512",
-    "C:\\Nuget\\microsoft.maui.controls.ref.ios\\6.0.548\\microsoft.maui.controls.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Nuget\\microsoft.maui.controls.ref.android\\6.0.548\\microsoft.maui.controls.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Nuget\\microsoft.maui.core.ref.android\\6.0.548\\microsoft.maui.core.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Nuget\\microsoft.android.ref.31\\32.0.476\\microsoft.android.ref.31.32.0.476.nupkg.sha512",
     "C:\\Nuget\\microsoft.maui.essentials.ref.ios\\6.0.548\\microsoft.maui.essentials.ref.ios.6.0.548.nupkg.sha512",
-    "C:\\Nuget\\microsoft.ios.ref\\16.1.228\\microsoft.ios.ref.16.1.228.nupkg.sha512"
+    "C:\\Nuget\\microsoft.maui.core.ref.ios\\6.0.548\\microsoft.maui.core.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Nuget\\microsoft.ios.ref\\16.1.228\\microsoft.ios.ref.16.1.228.nupkg.sha512",
+    "C:\\Nuget\\microsoft.maui.controls.ref.ios\\6.0.548\\microsoft.maui.controls.ref.ios.6.0.548.nupkg.sha512"
   ],
   "logs": []
 }

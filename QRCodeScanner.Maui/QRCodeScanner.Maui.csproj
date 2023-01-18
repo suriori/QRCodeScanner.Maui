@@ -15,9 +15,9 @@
 		<RootNamespace>QRCodeScanner.Maui</RootNamespace>
 
 		<Product></Product>
-		<AssemblyVersion>1.0.0.69</AssemblyVersion>
-		<AssemblyFileVersion>1.0.0.69</AssemblyFileVersion>
-		<Version>1.0.0.69</Version>
+		<AssemblyVersion>1.0.1.69</AssemblyVersion>
+		<AssemblyFileVersion>1.0.1.69</AssemblyFileVersion>
+		<Version>1.0.1.69</Version>
 		<NeutralLanguage>en</NeutralLanguage>
 
 		<!--Version of C# to use -->
@@ -38,12 +38,12 @@
 		<RuntimeIdentifiers>ios-arm64;</RuntimeIdentifiers>
 		<PlatformTarget>arm64</PlatformTarget>
     </PropertyGroup>-->
-	
+
 	<ItemGroup>
 		<PackageReference Include="Xamarin.Build.Download" Version="0.11.4" />
 	</ItemGroup>
-	
+
 	<ItemGroup>
-	  <ProjectReference Include="..\QRCodeScanner.Core\QRCodeScanner.Core.csproj" />
+		<ProjectReference Include="..\QRCodeScanner.Core\QRCodeScanner.Core.csproj" />
 	</ItemGroup>
 </Project>

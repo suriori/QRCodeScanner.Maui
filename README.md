@@ -12,15 +12,20 @@ Maui - 1.0.1.69
 
 # To add a path to the PATH environment variable
 
-On the Start menu, right-click Computer.
-On the context menu, click Properties.
-In the System dialog box, click Advanced system settings.
-On the Advanced tab of the System Properties dialog box, click Environment Variables.
+1. On the Start menu, right-click Computer.
+
+2. On the context menu, click Properties.
+
+3. In the System dialog box, click Advanced system settings.
+
+4. On the Advanced tab of the System Properties dialog box, click Environment Variables.
 
 # Closed visual studio
 
 In the Environment Variable, added a new path "C:\Nuget" to PATH (PATH already exists, edit and add new path)
+
 added "C:\Nuget" to NUGET_PATH
+
 added "C:\Nuget" to NUGET_PACKAGES
 
 # Installation and usage

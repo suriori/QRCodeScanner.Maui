@@ -4,7 +4,7 @@
  
 # Supported versions
  
-Maui : iOS 15.4+ and Android (android 31.0)
+Maui : iOS 15.4+ and Android 31.0+
 
 # Current Version
 

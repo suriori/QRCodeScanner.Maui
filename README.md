@@ -20,9 +20,9 @@ Maui - 1.0.1.69
 
 4. On the Advanced tab of the System Properties dialog box, click Environment Variables.
 
-# Closed visual studio
+5. Closed visual studio
 
-In the Environment Variable, added a new path "C:\Nuget" to PATH (PATH already exists, edit and add new path)
+6. In the Environment Variable, added a new path "C:\Nuget" to PATH (PATH already exists, edit and add new path)
 
 added "C:\Nuget" to NUGET_PATH
 

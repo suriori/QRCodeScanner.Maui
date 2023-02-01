@@ -30,4 +30,4 @@ added "C:\Nuget" to NUGET_PACKAGES
 
 # Installation and usage
 
-$ dotnet add package QRCodeScanner.Maui --version 1.0.0.69
+$ dotnet add package QRCodeScanner.Maui --version 1.0.1.69

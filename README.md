@@ -4,11 +4,11 @@
  
 # Supported versions
  
-Maui : iOS 15.4+ and Android 31.0+
+Maui : iOS 15.4+ and Android 33.0+
 
 # Current Version
 
-Maui - 1.0.1.69
+Maui - 1.1.1.69
 
 # To add a path to the PATH environment variable
 
@@ -30,4 +30,4 @@ added "C:\Nuget" to NUGET_PACKAGES
 
 # Installation and usage
 
-$ dotnet add package QRCodeScanner.Maui --version 1.0.1.69
+$ dotnet add package QRCodeScanner.Maui --version 1.1.1.69

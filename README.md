@@ -4,7 +4,7 @@
  
 # Supported versions
  
-Maui : iOS 15.4+ and Android 33.0+
+.Net 7 Maui : iOS 15.4+ and Android 33.0+
 
 # Current Version
 
